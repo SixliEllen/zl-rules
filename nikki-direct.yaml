@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-KEYWORD,ptyqm                   #包含关键词
+#  - DOMAIN-KEYWORD,ptyqm                   #包含关键词
 #  - DOMAIN-SUFFIX,xiaohongshu.com          #域名后缀
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
