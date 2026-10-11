@@ -1,3 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,ptyqm                   #包含关键词
   - DOMAIN-SUFFIX,xiaohongshu.com          #域名后缀
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,ts.net
+  - DST-PORT,41641                        #目标端口
+  - SRC-IP-CIDR,10.10.10.20/32            #源 IPv4 地址路由数据包
+  
