@@ -1,2 +1,3 @@
 payload:
-  - DOMAIN-KEYWORD,ptyqm,REJECT         
+  - DOMAIN-KEYWORD,ptyqm                   #包含关键词
+  - DOMAIN-SUFFIX,xiaohongshu.com          #域名后缀
